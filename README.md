@@ -1,5 +1,7 @@
 # Workbook 1
+
 code examples & exercises for workbook 1
+
 - HTML 
   - Syntax, structure, tags, images, tables, validation
   - Block and Inline elements
